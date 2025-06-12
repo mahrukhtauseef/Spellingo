@@ -103,7 +103,7 @@ This app was built as part of the **LIVE Learning** challenge — a rapid protot
 
 ### 🧪 Demo Preview
 
-👉 [Watch the demo on YouTube]([https://www.youtube.com/watch?v=yourvideoid](https://youtube.com/shorts/i8EyyrIMYtE?feature=share)])
+👉 [Watch the demo on YouTube]([(https://youtube.com/shorts/i8EyyrIMYtE?feature=share)])
 
 ---
 
