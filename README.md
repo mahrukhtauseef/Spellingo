@@ -16,10 +16,6 @@
 ---
 
 ## Why This Project?
-
-> _"Learning to spell can be demotivating. I wanted to make it playful and interactive."_  
-> — Mahrukh Tauseef
-
 Research shows that many adults in the U.S. struggle with English spelling. This app addresses the root of that challenge — spelling education in childhood — with an inviting, tech-forward experience designed to help kids succeed early.
 
 ---
