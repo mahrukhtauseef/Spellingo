@@ -1,10 +1,10 @@
-# 🧠 Spellingo
+# Spellingo
 
 **Spellingo** is a fun, interactive Unity-based app designed to help children (especially first graders) learn how to spell commonly used English words in an engaging way. This project was built using Unity with a focus on rapid prototyping and educational design.
 
 ---
 
-## ✨ What It Does
+## What It Does
 
 - Presents a cartoon image and plays audio of the word (e.g., “cat”).
 - Lets children type the spelling of the word using letter buttons.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Why This Project?
+## Why This Project?
 
 > _"Learning to spell can be demotivating. I wanted to make it playful and interactive."_  
 > — Mahrukh Tauseef
@@ -24,7 +24,7 @@ Research shows that many adults in the U.S. struggle with English spelling. This
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 - **Grade 1 Word Carousel:** Includes 9 high-frequency Fry words like `ball`, `cat`, `book`, etc.
 - **Touch-to-hear functionality:** Tap a picture to hear the pronunciation.
@@ -34,7 +34,7 @@ Research shows that many adults in the U.S. struggle with English spelling. This
 
 ---
 
-## 🎮 Scripts Overview
+## Scripts Overview
 
 | Script Name     | Purpose |
 |----------------|---------|
@@ -46,7 +46,7 @@ Research shows that many adults in the U.S. struggle with English spelling. This
 
 ---
 
-## 🖼 UI & Visuals
+## UI & Visuals
 
 - Colorful cartoon images
 - Large tap-friendly buttons
@@ -55,7 +55,7 @@ Research shows that many adults in the U.S. struggle with English spelling. This
 
 ---
 
-## 🔊 Audio Integration
+## Audio Integration
 
 - Word pronunciations
 - Celebration sounds (`Tada`, `CongratSpeech`)
@@ -66,14 +66,14 @@ Audio clips are dynamically loaded from the `/Resources/Sound` folder.
 
 ---
 
-## 📚 Words Used (Grade 1)
+## Words Used (Grade 1)
 
 - `ball`, `bed`, `book`, `boy`, `car`, `cat`, `dog`, `girl`, `man`  
 These are drawn from the Fry high-frequency word list appropriate for early readers.
 
 ---
 
-## 🚀 How to Run It
+## How to Run It
 
 1. **Install Unity Hub** (Recommended Unity version: 2022.x or higher)
 2. **Clone this repo:**
@@ -83,7 +83,7 @@ These are drawn from the Fry high-frequency word list appropriate for early read
 5.	Navigate from the Main Menu to try Grade 1 spelling.
 
 
-### 📚 Resources and guides
+### Resources and guides
 
 - [Canvas & UI in Unity](https://www.youtube.com/watch?v=mNioSjbbEIs)  
 - [Adding Buttons](https://www.youtube.com/watch?v=gSfdCke3684)  
@@ -95,26 +95,26 @@ These are drawn from the Fry high-frequency word list appropriate for early read
 
 ---
 
-### 💡 Project Inspiration
+### Project Inspiration
 
 This app was built as part of the **LIVE Learning** challenge — a rapid prototyping exercise to build creative tools for learning. After reading that many adults in the U.S. struggle with spelling, the idea was born to make spelling fun and rewarding at the foundational level. This project is a small step toward playful, tech-supported learning.
 
 ---
 
-### 🧪 Demo Preview
+### Demo Preview
 
 [![Watch the demo](https://img.youtube.com/vi/i8EyyrIMYtE/0.jpg)](https://www.youtube.com/watch?v=i8EyyrIMYtE)
 
 ---
 
-### 📬 Feedback & Contributions
+### Feedback & Contributions
 
 You're welcome to:
 
-- 🛠 Fork the project (Grade 2 and Grade 3 can use your help!)
-- 🐞 Report bugs
-- ✨ Suggest new features
-- 📩 Reach out if you're an educator or researcher
+-  Fork the project (Grade 2 and Grade 3 can use your help!)
+-  Report bugs
+-  Suggest new features
+-  Reach out if you're an educator or researcher
 
 Feel free to [open an issue](https://github.com/mahrukhtauseef/Spellingo/issues) or email me at **mahrukh.tauseef@vanderbilt.edu** — I’d love to hear from you!
 
